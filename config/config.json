@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "danieltrotter",
+    "password": null,
+    "database": "hobbies_dev",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "danieltrotter",
+    "password": null,
+    "database": "hobbies_test",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
